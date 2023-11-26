@@ -8,6 +8,6 @@
 # Зависимости
 
 ```
-pip3 install python-dotenv 
+pip install python-dotenv 
 pip install web3
 ```
